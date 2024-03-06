@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kellydeveloper.vercel.app](https://kellydeveloper.vercel.app)
 
-- 💬 Ask me about **react, typescript, vue and angular**
+- 💬 Ask me about **React.js, Javascript, CSS and Node.js**
 
 - 📫 How to reach me **kellyreislee@gmail.com**
 
