@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>🔭 <b>Currently working on:</b> Dynamic web apps with <b>JavaScript & React</b></li>
+        <li>🔭 <b>Currently working on:</b> Dynamic web apps with <b>Java & React</b></li>
         <li>🌱 <b>Currently exploring:</b> Advanced Frameworks, Libraries & Back-end architecture</li>
         <li>👯 <b>Open for:</b> Exciting freelance projects & collaborations</li>
         <li>👨‍💻 <b>Portfolio:</b> <a href="https://kellydeveloper.vercel.app">kellydeveloper.vercel.app</a></li>
