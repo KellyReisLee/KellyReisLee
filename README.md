@@ -119,7 +119,7 @@
 
 ### 📊 GitHub Activity Highlights
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Focus-JavaScript_%2F_React-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Main_Focus-React_%2F_Java-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Available_for_Freelance-10b981?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Location-Lisbon%2C_Portugal-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
