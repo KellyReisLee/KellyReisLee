@@ -1,6 +1,6 @@
 <!-- Banner Principal com a Foto de Captação -->
 <p align="center">
-  <img src="image-anime.jpeg" alt="MasterHead" width="600px" style="border-radius: 12px;"/>
+  <img src="hero-image.jpeg" alt="MasterHead" width="600px" style="border-radius: 12px;"/>
 </p>
 
 <!-- Título e Saudação com Destaque -->
