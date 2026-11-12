@@ -1,6 +1,6 @@
 <!-- Banner Principal com a Foto de Captação -->
 <p align="center">
-  <img src="https://codeandhack.com/wp-content/uploads/2023/03/Learning-Multiple-Programming-Languages.jpg" alt="MasterHead" width="100%" style="border-radius: 12px;"/>
+  <img src="image-anime.jpeg" alt="MasterHead" width="100%" style="border-radius: 12px;"/>
 </p>
 
 <!-- Título e Saudação com Destaque -->
